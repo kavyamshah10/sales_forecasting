@@ -1,0 +1,6 @@
+data/processed/test.csv
+data/processed/train.csv
+data/raw/test_data.csv
+data/raw/train_datat.csv
+notebook/.ipynb_checkpoints
+script/__pycache__
